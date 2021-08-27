@@ -1,0 +1,1 @@
+export default title_name = 'title_name';
