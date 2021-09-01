@@ -1,3 +1,2 @@
-import ('./title').then((re) => {
-    console.log(re.name);
-})
+import A from './title';
+console.log(A);

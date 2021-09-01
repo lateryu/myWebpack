@@ -1,4 +1,2 @@
-module.exports = {
-    name: 'title_name',
-    age: 'title_age'
-}
+const sub = (a, b) => a + b;
+export default sub;
